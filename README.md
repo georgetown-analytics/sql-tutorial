@@ -10,7 +10,7 @@ In this tutorial, we'll explore how to build a simple contacts application, sinc
 
 If you'd like to work directly with the Jupyter Notebook, you can clone this repository, download the zip, or simply download `Workshop.ipynb`. Once you have it, you can run Jupyter notebook as follows:
 
-    $ Jupyter notebook Workshop.ipynb
+    $ jupyter notebook Workshop.ipynb
 
 Note if you don't have Jupyter, you can pip install it:
 
