@@ -1,8 +1,8 @@
 # SQL Tutorials
 
-**This repository includes two brief tutorial on SQL with Python (using SQLite) to create databases and to execute joins**
+**This repository includes two brief tutorials on SQL with Python (using SQLite) to create databases and to execute joins**
 
-## Creating databases in `sqlite`
+## Tutorial 1: Creating Databases using `sqlite`
 ![Schema](figures/schema.png)
 
 In this tutorial, we'll explore how to build a simple contacts application, since we're all familiar with it. This will help to show you how to build larger databases and perform data management with them.
@@ -17,7 +17,7 @@ Note if you don't have Jupyter, you can pip install it:
 
 Otherwise, you can simply create a Python file in your local directory and add the code from the notebook as you work through it.
 
-## Heroic Joins with SQL
+## Tutorial 2: Heroic Joins with SQL
 ![SQL Joins](figures/sqljoins.jpg)
 
 In this tutorial, we'll explore how to use SQL joins to perform more complex queries on a database. This will help to show you how to interact with databases and perform general analytics with them. We'll also start to see some of the limitations of `sqlite` and explore some of the more robust options.
